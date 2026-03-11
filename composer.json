@@ -1,0 +1,16 @@
+{
+    "name": "alexyan/banana-prompts-php",
+    "description": "The unofficial PHP SDK for Banana Prompts - AI Prompt Library & Image to Prompt API.",
+    "type": "library",
+    "homepage": "https://bananaprompts.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Yan",
+            "email": "your-email@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
